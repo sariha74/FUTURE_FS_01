@@ -19,7 +19,6 @@ This project was created as **Task 1 for my Full Stack Web Development Internshi
 * CSS
 * JavaScript
 * Vite
-* EmailJS
 
 ## 📌 Sections
 
@@ -36,9 +35,3 @@ npm install
 npm run dev
 ```
 
-## 📬 Contact
-
-If you'd like to connect or collaborate:
-
-Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-GitHub: https://github.com/yourusername
